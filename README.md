@@ -1,7 +1,7 @@
 ## Hi there 👋
 3ed year Electrical Engineerign Technology student @ Algonquin Collage.
 
-Im currently Working 
+**Currently Working on:**
 
 -A GPT controlled robot with an esp-32 and coded with python and C+
 
